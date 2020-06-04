@@ -1,4 +1,3 @@
-import io.restassured.RestAssured;
 import io.restassured.builder.MultiPartSpecBuilder;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
